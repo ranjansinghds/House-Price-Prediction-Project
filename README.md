@@ -49,6 +49,7 @@ The **California Housing dataset** is used for this project.
 ```bash
 git clone https://github.com/ranjansinghds/house-price-prediction-ml-project.git
 cd HOUSE_PRICE_PREDICTION
+```
 
 ### 2️⃣ Install dependencies:
 
